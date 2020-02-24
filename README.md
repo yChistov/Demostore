@@ -1,0 +1,3 @@
+# Demostore
+
+mvn clean install
